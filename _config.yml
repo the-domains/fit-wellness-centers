@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3044731833506376
+  saturation: 0.3044732
   brandStrength: 0.2989025304559618
-  rhythmicContrast: 0.5576105949003249
+  lightness: 1
   brandColors:
     - '#192857'
     - '#a9a9aa'
     - '#56565b'
     - '#ffffff'
     - '#000000'
-  lightness: 0.6644905123393983
+  rhythmicContrast: 0.5576106
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Fit Wellness Centers
 favicon: null
+name: Fit Wellness Centers
 opengraph:
   image: null
   type: null
