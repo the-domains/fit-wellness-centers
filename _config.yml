@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.3044732
   brandStrength: 0.2989025304559618
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#192857'
     - '#a9a9aa'
