@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Seattle's Premier Wellness Center for Health & Fitness]]></title>
         <description><![CDATA[Seattle's Premier Wellness Center for Health & Fitness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fit-wellness-centers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 18:40:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 06:37:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fit-wellness-centers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FIT Wellness Centers]]></title>
-            <description><![CDATA[<article><h1>FIT Wellness Centers</h1><p>Fit Wellness Centers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b778e533db9517947a92e546f5037cedd56260fd.png"></article>]]></description>
-            <link>undefinedfit-wellness-centers/index.html</link>
+            <description><![CDATA[<article><h1>FIT Wellness Centers</h1><p>Fit Wellness Centers</p></article>]]></description>
+            <link>https://thegrid.ai/fit-wellness-centers/fit-wellness-centers/index.html</link>
             <guid isPermaLink="false">8e865d05-1712-4228-a9f6-65f8668e073b</guid>
-            <pubDate>Sat, 06 Feb 2016 18:40:45 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 06:36:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
